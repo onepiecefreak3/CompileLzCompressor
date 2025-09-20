@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompileLzCompressor": {
+      "commandName": "Project",
+      "commandLineArgs": "-m d -f \"D:\\Users\\Kirito\\Desktop\\compile_lz\\NPC001\\NPC001_Uncompressed.DAT.comp\""
+    }
+  }
+}
